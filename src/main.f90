@@ -25,17 +25,6 @@
   !** If you use this code for your own research, please cite at least one article
   !** written by the developers of the package, for instance:
   !** 
-  !** @article{Dagnino2016,
-  !** author = {Dagnino, D. and Sallar{\`{e}}s, V. and Biescas, B. and Ranero, C. R.},
-  !** doi = {10.1002/2015JC011486.Received},
-  !** issn = {2169-9291},
-  !** journal = {Journal of Geophysical Research: Oceans},
-  !** pages = {1--18},
-  !** title = {{Fine-scale thermohaline ocean structure retrieved with 2-D prestack full-waveforminversion ofmultichannel seismic data: Application to the Gulf of Cadiz (SW Iberia)}},
-  !** volume = {121},
-  !** year = {2016}
-  !** }
-  !** 
   !** 
   !** 
   !** 
